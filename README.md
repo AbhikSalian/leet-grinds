@@ -120,4 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/AbhikSalian/leet-grinds/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/AbhikSalian/leet-grinds/tree/master/0969-number-of-recent-calls) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AbhikSalian/leet-grinds/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AbhikSalian/leet-grinds/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
